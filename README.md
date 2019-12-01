@@ -5,4 +5,4 @@ OK
 ```bash
 python prog.py
 ```
-Treng ikkje input_fila lokalt - lastar direkte frå link.
+Treng ikkje input fila lokalt - lastar direkte frå link.
