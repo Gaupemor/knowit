@@ -2,7 +2,7 @@
 
 ### Luke 1: Drageproblemer
 OK  
-´´´ bash
+```bash
 python prog.py
-´´´
-Notat: Treng ikkje input_fila lokalt - lastar direkte frå link.
+```
+Treng ikkje input_fila lokalt - lastar direkte frå link.
