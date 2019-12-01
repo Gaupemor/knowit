@@ -13,25 +13,22 @@ input_file = (
 tribute = np.loadtxt(input_file , delimiter=", ")
 
 dragon_size = 50
-dragon_sanity = INITIAL_SANITY = 5
-left_over = days_of_survival = 0
+INITIAL_SANITY = dragon_sanity = 5
+days_of_survival = tribute_left_over = 0
 
-for day in tribute:
-    #num of sheep available
-    tribute_of_the_day = day + left_over
+for intitial_tribute in tribute:
+    daily_tribute = intitial_tribute + tribute_left_over
 
-    left_over = 0
-
-    if dragon_size <= tribute_of_the_day:
+    if dragon_size <= daily_tribute:
         dragon_sanity = INITIAL_SANITY
-        left_over = tribute_of_the_day - dragon_size
+        tribute_left_over = daily_tribute - dragon_size
         dragon_size += 1
     else:
         dragon_sanity -= 1
         if dragon_sanity <= 0:
             break
         dragon_size -= 1
-        left_over = 0
+        tribute_left_over = 0
 
     days_of_survival += 1
 
