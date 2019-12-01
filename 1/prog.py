@@ -1,6 +1,16 @@
 import numpy as np
+import urllib.request
 
-tribute = np.loadtxt(fname = "sau.txt", delimiter=", ")
+"""
+Luke 1: Drageproblemer
+https://julekalender.knowit.no/doors/ck3ln1prramud0109sqetdk7g
+"""
+
+input_file = (
+    urllib.request
+    .urlopen("https://knowit-julekalender.s3.eu-central-1.amazonaws.com/sau.txt")
+    )
+tribute = np.loadtxt(input_file , delimiter=", ")
 
 dragon_size = 50
 dragon_sanity = INITIAL_SANITY = 5
