@@ -20,3 +20,10 @@ OK
 python prog.py
 ```
 Treng ikkje input fila lokalt - lastar direkte frå link.
+
+### Luke 4: Piratsneglen Sneglulf og skattekartet hans
+OK  
+```bash
+python prog.py
+```
+Treng ikkje input fila lokalt - lastar direkte frå link.
