@@ -27,3 +27,9 @@ OK
 python prog.py
 ```
 Treng ikkje input fila lokalt - lastar direkte frå link.
+
+### Luke 5: Ønskerøre
+OK  
+```bash
+python prog.py
+```
