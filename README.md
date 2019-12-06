@@ -33,3 +33,9 @@ OK
 ```bash
 python prog.py
 ```
+
+### Luke 6: Birte sin brilliante biletebeskyttelse
+OK  
+```bash
+python prog.py
+```
