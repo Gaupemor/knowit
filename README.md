@@ -39,3 +39,9 @@ OK
 ```bash
 python prog.py
 ```
+
+### Luke 7: Hvelvets diskrete kode
+OK  
+```bash
+python prog.py
+```

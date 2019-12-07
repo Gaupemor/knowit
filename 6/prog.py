@@ -3,7 +3,7 @@ import urllib.request
 import cv2
 
 """
-Luke 1: Birte sin brilliante biletebeskyttelse
+Luke 6: Birte sin brilliante biletebeskyttelse
 https://julekalender.knowit.no/doors/ck3r9zcm6bu7d0109solzlvjy
 """
 
