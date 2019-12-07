@@ -1,5 +1,8 @@
 # knowit kodekalender 2019
 
+## Score
+6 / 7
+
 ### Luke 1: Drageproblemer
 OK  
 ```bash
