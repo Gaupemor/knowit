@@ -48,3 +48,10 @@ OK
 ```bash
 python prog.py
 ```
+
+### Luke 8: Lotto-Lotte feirer jul i Vegas
+OK  
+```bash
+python prog.py
+```
+Treng ikkje input fila lokalt - lastar direkte frå link.
