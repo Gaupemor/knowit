@@ -1,7 +1,7 @@
 # knowit kodekalender 2019
 
 ## Score
-7 / 8  
+8 / 9  
 
 ### Luke 1: Drageproblemer
 OK  
