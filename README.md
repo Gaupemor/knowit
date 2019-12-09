@@ -55,3 +55,10 @@ OK
 python prog.py
 ```
 Treng ikkje input fila lokalt - lastar direkte frå link.
+
+### Luke 9: Krampustall
+OK  
+```bash
+python prog.py
+```
+Treng ikkje input fila lokalt - lastar direkte frå link.
