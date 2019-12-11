@@ -1,7 +1,7 @@
 # knowit kodekalender 2019
 
 ## Score
-8 / 9  
+9 / 11  
 
 ### Luke 1: Drageproblemer
 OK  
@@ -57,6 +57,17 @@ python prog.py
 Treng ikkje input fila lokalt - lastar direkte frå link.
 
 ### Luke 9: Krampustall
+OK  
+```bash
+python prog.py
+```
+Treng ikkje input fila lokalt - lastar direkte frå link.
+
+
+### Luke 10
+Ikke implementert
+
+### Luke 11: Sledestans
 OK  
 ```bash
 python prog.py
